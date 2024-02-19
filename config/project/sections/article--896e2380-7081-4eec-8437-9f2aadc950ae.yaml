@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+handle: article
+name: Article
+propagationMethod: custom
+siteSettings:
+  2d4c5579-89de-4d12-9e5e-5ad70a0767bf: # Twin Town Times
+    enabledByDefault: true
+    hasUrls: true
+    template: single-newspaper/article/_entry.twig
+    uriFormat: '{postDate|date(''Y'')}/{postDate|date(''m'')}/{postDate|date(''j'')}/{slug}'
+  9f7f9fcc-ebda-45b8-a4f9-a68c94157b6f: # Newspaper Multisite
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+  3418bf42-7cae-43ef-babd-e7b3f4e2273e: # Junee Independent
+    enabledByDefault: true
+    hasUrls: true
+    template: single-newspaper/article/_entry.twig
+    uriFormat: '{postDate|date(''Y'')}/{postDate|date(''m'')}/{postDate|date(''j'')}/{slug}'
+  f47d5f8f-1d92-4a0f-8a84-6271ee2036fc: # Yass Valley Times
+    enabledByDefault: true
+    hasUrls: true
+    template: single-newspaper/article/_entry.twig
+    uriFormat: '{postDate|date(''Y'')}/{postDate|date(''m'')}/{postDate|date(''j'')}/{slug}'
+type: channel

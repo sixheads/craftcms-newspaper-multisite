@@ -1,0 +1,9 @@
+baseUrl: 'https://newspaper-multisite.ddev.site/twintowntimes'
+enabled: '1'
+handle: twinTownTimes
+hasUrls: true
+language: en-AU
+name: 'Twin Town Times'
+primary: false
+siteGroup: f51b3682-1768-4364-aecf-52c44251c479 # Newspaper Multisite
+sortOrder: 2

@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: singleNewspaperHomepage
+name: 'Single Newspaper Homepage'
+propagationMethod: all
+siteSettings:
+  2d4c5579-89de-4d12-9e5e-5ad70a0767bf: # Twin Town Times
+    enabledByDefault: true
+    hasUrls: true
+    template: single-newspaper/index.twig
+    uriFormat: __home__
+type: single

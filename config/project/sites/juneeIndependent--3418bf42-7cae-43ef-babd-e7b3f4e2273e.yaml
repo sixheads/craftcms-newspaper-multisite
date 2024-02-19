@@ -1,0 +1,9 @@
+baseUrl: 'https://newspaper-multisite.ddev.site/juneeindependent/'
+enabled: '1'
+handle: juneeIndependent
+hasUrls: true
+language: en-AU
+name: 'Junee Independent'
+primary: false
+siteGroup: f51b3682-1768-4364-aecf-52c44251c479 # Newspaper Multisite
+sortOrder: 3

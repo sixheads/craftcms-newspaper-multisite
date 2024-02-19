@@ -1,0 +1,19 @@
+columnSuffix: hhtyuhdm
+contentColumnType: text
+fieldGroup: 001630a1-7ce4-4a23-b580-7d9616154ff6 # Common
+handle: body
+instructions: null
+name: Body
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: newspapersHomepage
+name: 'Newspapers Homepage'
+propagationMethod: all
+siteSettings:
+  9f7f9fcc-ebda-45b8-a4f9-a68c94157b6f: # Newspaper Multisite
+    enabledByDefault: true
+    hasUrls: true
+    template: master-newspaper/index.twig
+    uriFormat: __home__
+type: single

@@ -1,0 +1,35 @@
+dateModified: 1707871589
+email:
+  fromEmail: support@sixheads.com
+  fromName: 'Newspaper Multisite'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1ddbc2f7-80a5-457f-9ed3-72090b366e4f: Default # Default
+    2d4c5579-89de-4d12-9e5e-5ad70a0767bf: 'Twin Town Times' # Twin Town Times
+    9f7f9fcc-ebda-45b8-a4f9-a68c94157b6f: 'Newspaper Multisite' # Newspaper Multisite
+    77a48c3f-31d6-4bd0-87ec-215cb195c2ea: 'Single Newspaper Homepage' # Single Newspaper Homepage
+    896e2380-7081-4eec-8437-9f2aadc950ae: Article # Article
+    001630a1-7ce4-4a23-b580-7d9616154ff6: Common # Common
+    3418bf42-7cae-43ef-babd-e7b3f4e2273e: 'Junee Independent' # Junee Independent
+    a6dd2ad7-850d-4664-8c39-5044dcb85e6f: 'Newspapers Homepage' # Newspapers Homepage
+    aba2271c-70a4-48e6-a1aa-ac67c9bf1376: Body # Body
+    b34b025d-1a0c-4b44-9a63-f2d29675bdbd: 'Single Newspaper Homepage' # Single Newspaper Homepage
+    b74c8a5b-1469-4ee7-a88a-c95ef39a4266: Categories # Categories
+    ed752bba-0456-4821-ad1e-509a6e18e35d: 'Newspapers Homepage' # Newspapers Homepage
+    f47d5f8f-1d92-4a0f-8a84-6271ee2036fc: 'Yass Valley Times' # Yass Valley Times
+    f51b3682-1768-4364-aecf-52c44251c479: 'Newspaper Multisite' # Newspaper Multisite
+    fcbaea6d-9ec6-4ad1-9496-e6e832a02596: Categories # Categories
+system:
+  edition: solo
+  live: true
+  name: 'Newspaper Multisite'
+  retryDuration: null
+  schemaVersion: 4.5.3.0
+  timeZone: Australia/Melbourne
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
